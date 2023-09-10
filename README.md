@@ -19,9 +19,8 @@ https://public.tableau.com/authoring/citiBikeData_16942316279470/TripdurationbyU
 
  <img width="740" alt="image" src="https://github.com/bhartikaushal/CitiBike-Analysis_Tableau/assets/124011061/2c59aa68-36d8-42cf-bf5c-a14062127b60">
 
-  ## The average trip duration varies  by gender, age, month, and weekdays. The average trip duration for females is higher as compared to males. And it is 
-   also highest among the age group 20 -30. Average trip duration increases from January to March. This could be due to favorable weather conditions in 
-   March as compared to January. People have a higher average trip duration over the weekend as compared to weekdays.
+  ## The average trip duration varies  by gender, age, month, and weekdays. The average trip duration for females is higher as compared to males. And it is also highest among the age group 20 -30. Average trip duration increases from January to March. This could be due to favorable weather conditions in March as compared to January. People have a higher average trip duration over the weekend as compared to weekdays.
+  
    <img width="713" alt="image" src="https://github.com/bhartikaushal/CitiBike-Analysis_Tableau/assets/124011061/e9653646-1cb1-4e4d-a642-490b10b6ad5c">
 
    <img width="617" alt="image" src="https://github.com/bhartikaushal/CitiBike-Analysis_Tableau/assets/124011061/bd224bf3-412a-420f-8284-e146f956ce6d">
