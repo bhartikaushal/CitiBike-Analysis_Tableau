@@ -13,13 +13,13 @@ https://public.tableau.com/authoring/citiBikeData_16942316279470/TripdurationbyU
 
 2. The CSV file was loaded into Tableau. Various worksheets were created for analyzing the data.
   
- ##The following image shows the popular stations by Gender. Graham Ave & Herbert St is the most popular start station for females.
+ ## The following image shows the popular stations by Gender. Graham Ave & Herbert St is the most popular start station for females.
  
  <img width="715" alt="image" src="https://github.com/bhartikaushal/CitiBike-Analysis_Tableau/assets/124011061/e125a0ba-132c-43bf-8235-9d8424640a84">
 
  <img width="740" alt="image" src="https://github.com/bhartikaushal/CitiBike-Analysis_Tableau/assets/124011061/2c59aa68-36d8-42cf-bf5c-a14062127b60">
 
-  ##The average trip duration varies  by gender, age, month, and weekdays. The average trip duration for females is higher as compared to males. And it is 
+  ## The average trip duration varies  by gender, age, month, and weekdays. The average trip duration for females is higher as compared to males. And it is 
    also highest among the age group 20 -30. Average trip duration increases from January to March. This could be due to favorable weather conditions in 
    March as compared to January. People have a higher average trip duration over the weekend as compared to weekdays.
    <img width="713" alt="image" src="https://github.com/bhartikaushal/CitiBike-Analysis_Tableau/assets/124011061/e9653646-1cb1-4e4d-a642-490b10b6ad5c">
