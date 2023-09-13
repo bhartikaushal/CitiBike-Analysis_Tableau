@@ -3,7 +3,7 @@
 This project involves the analysis of NYC Citi bike data using Tableau. Tableau worksheets were created to show data in a meaningful and easy-to-understand way. Dashboards were created to provide a comparative view of the data. They provide a professional and relevant analysis of the Citi bike datasets.
 
 # Link to Tableau:
-https://public.tableau.com/authoring/citiBikeData_16942316279470/TripdurationbyUsertype#1
+https://public.tableau.com/app/profile/bharti.sharma8133/viz/citiBikeData_16942316279470/Story1?publish=yes
 
 # Steps Involved:
 1. Data was downloaded from the Citibike website. The data was raw and needed cleaning. Jupyter Notebook was used to combine, clean, and organize raw data. The cleaned data was stored as a CSV file.
